@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20d5739e.css",
+    "main.js": "/static/js/main.1e47503d.js",
+    "static/js/849.7e06c471.chunk.js": "/static/js/849.7e06c471.chunk.js",
+    "static/js/897.a353fe02.chunk.js": "/static/js/897.a353fe02.chunk.js",
+    "static/js/779.a987307e.chunk.js": "/static/js/779.a987307e.chunk.js",
+    "static/js/522.d6cebcf3.chunk.js": "/static/js/522.d6cebcf3.chunk.js",
+    "static/js/508.8bc57498.chunk.js": "/static/js/508.8bc57498.chunk.js",
+    "static/js/27.908d9a4f.chunk.js": "/static/js/27.908d9a4f.chunk.js",
+    "static/js/654.b18c8bdd.chunk.js": "/static/js/654.b18c8bdd.chunk.js",
+    "static/js/889.6f75e76b.chunk.js": "/static/js/889.6f75e76b.chunk.js",
+    "static/js/836.cc0e6a72.chunk.js": "/static/js/836.cc0e6a72.chunk.js",
+    "static/js/562.3864a99d.chunk.js": "/static/js/562.3864a99d.chunk.js",
+    "static/js/169.216457d6.chunk.js": "/static/js/169.216457d6.chunk.js",
+    "index.html": "/index.html",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff"
+  },
+  "entrypoints": [
+    "static/css/main.20d5739e.css",
+    "static/js/main.1e47503d.js"
+  ]
+}
